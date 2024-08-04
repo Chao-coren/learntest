@@ -1,3 +1,6 @@
 ffff
 sdsdsd
-hello
+
+ git commit -m "[特性新增][gittest-20240804-1907] #time 2h test checkout and push"
+ git commit -m "[特性新增][gittest-20240804-1911] #time 2h test checkout and push" 
+resolve conflict
